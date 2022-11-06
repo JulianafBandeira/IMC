@@ -1,2 +1,2 @@
-# IMC-
+# IMC
 IMC JS
